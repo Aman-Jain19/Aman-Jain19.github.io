@@ -14,4 +14,4 @@ My website portfolio
 
 ## Author
 
-- Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+- Aman Jain
