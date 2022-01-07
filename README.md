@@ -10,7 +10,7 @@ My website portfolio
 
 ### Mobile View
 
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/Aman-Jain19/Aman-Jain19.github.io/blob/master/mobile%20view.jpeg)
 
 ## Author
 
